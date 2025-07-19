@@ -6,7 +6,7 @@ Created by *John Wharton*
 
 ## Installation
 
-1. Download the most recent version at **(https://github.com/Warzone2100/warzone2100/tree/master/tools/blender/2.9x)**
+1. Download the most recent version at **(https://github.com/Warzone2100/blender-pie-addon)**
 2. Install the addon use one of these methods:
 * __Option A__ (automatic):
     * From the Blender menu, navigate to `Edit -> Preferences -> Add-ons`.
