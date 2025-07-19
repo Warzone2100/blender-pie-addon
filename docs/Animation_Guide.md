@@ -9,7 +9,7 @@ It is highly recommended to first go through the PIE file format documentation t
 - PIE File Format Documentation: [PIE.md](https://github.com/Warzone2100/warzone2100/blob/master/doc/PIE.md)
 
 Additionally, read the PIE add-on readme, on how to install the add-on to Blender 2.9x version.
-- PIE Add-on README: [README.md](https://github.com/Warzone2100/warzone2100/blob/master/tools/blender/2.9x/pie_addon/README.md)
+- PIE Add-on README: [README.md](https://github.com/Warzone2100/blender-pie-addon/blob/main/README.md)
 
 To access the PIE files, extract the base.wz (a zip type archive) to a location of your choice.
 
